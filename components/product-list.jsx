@@ -15,6 +15,6 @@ export default function ProductList ({ products }) {
 
 const Product = ({product: {brand, name, rating}}) => (
     <div>
-        <div>{brand}: {name} ({Array.from({length: rating}, () => '⭐').join('')})</div>
+        <div>{brand}: {name} {Array.from({length: rating}, () => '⭐').join('')}</div>
     </div>
 );
