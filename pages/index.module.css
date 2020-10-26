@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+}
+
+.filters {
+    padding: 0;
+    margin: 0 1rem 0 0;
+    list-style: none;
+    font-size: .875rem;
+}
+
+.filters > li {
+    margin-bottom: 1rem;
+}
