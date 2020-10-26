@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a proof-of-concept exploration of a product info/filtering app using [Next.js](https://nextjs.org/).
