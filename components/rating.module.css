@@ -1,0 +1,15 @@
+.container {
+    position: relative;
+}
+
+.container::before {
+    content: '⭐⭐⭐⭐⭐';
+    filter: grayscale(1);
+    opacity: 0.5;
+    position: absolute;
+    left: 0;
+}
+
+.stars {
+    position: relative;
+}

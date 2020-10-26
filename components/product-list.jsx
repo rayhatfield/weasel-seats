@@ -1,6 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+import Rating from './rating';
+
 export default function ProductList ({ products }) {
     return (
         <ul>
@@ -15,6 +17,6 @@ export default function ProductList ({ products }) {
 
 const Product = ({product: {brand, name, rating}}) => (
     <div>
-        <div>{brand}: {name} {Array.from({length: rating}, () => '⭐').join('')}</div>
+        <div>{brand}: {name} <Rating rating={rating} /></div>
     </div>
 );
