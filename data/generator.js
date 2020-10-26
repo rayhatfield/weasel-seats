@@ -82,6 +82,7 @@ const makeProduct = () => ({
     ages: randomRange(),
     weight: randomRange(128),
     height: randomRange(96),
+    rating: rand(5) + 1
 });
 
 const products = Array.from({length: 100}, makeProduct);

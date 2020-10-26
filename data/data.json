@@ -1,131 +1,9 @@
 [
   {
     "brand": "Evenflo",
-    "name": "Drunken Sled Jr.",
-    "types": [
-      "Carrier Base",
-      "Convertible",
-      "Combination",
-      "Infant Carrier"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 8,
-      "max": 40
-    },
-    "weight": {
-      "min": 13,
-      "max": 115
-    },
-    "height": {
-      "min": 32,
-      "max": 64
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Green Cheese Limited",
-    "types": [],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 12,
-      "max": 36
-    },
-    "weight": {
-      "min": 31,
-      "max": 97
-    },
-    "height": {
-      "min": 14,
-      "max": 82
-    }
-  },
-  {
-    "brand": "Goodbaby",
-    "name": "Big Sled Supreme",
-    "types": [
-      "Convertible",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 16,
-      "max": 32
-    },
-    "weight": {
-      "min": 29,
-      "max": 99
-    },
-    "height": {
-      "min": 26,
-      "max": 70
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Big Rocketship 9000",
+    "name": "Turbo Sunburn Jr.",
     "types": [
       "Booster",
-      "Carrier Base",
-      "Convertible",
-      "Combination",
-      "Travel System"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 10,
-      "max": 38
-    },
-    "weight": {
-      "min": 17,
-      "max": 111
-    },
-    "height": {
-      "min": 38,
-      "max": 58
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Green Sunburn 5000",
-    "types": [
-      "Booster",
-      "Carrier Base",
-      "Convertible",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 21,
-      "max": 27
-    },
-    "weight": {
-      "min": 53,
-      "max": 75
-    },
-    "height": {
-      "min": 17,
-      "max": 79
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Green Sled III",
-    "types": [
       "Carrier Base"
     ],
     "features": [
@@ -133,46 +11,94 @@
       "Easy to Install"
     ],
     "ages": {
-      "min": 8,
-      "max": 40
+      "min": 3,
+      "max": 45
     },
     "weight": {
-      "min": 26,
-      "max": 102
+      "min": 50,
+      "max": 78
     },
     "height": {
-      "min": 6,
-      "max": 90
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Funky Rocketship 9000",
-    "types": [
-      "Carrier Base",
-      "Travel System"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 20,
-      "max": 28
+      "min": 21,
+      "max": 75
     },
-    "weight": {
-      "min": 49,
-      "max": 79
-    },
-    "height": {
-      "min": 27,
-      "max": 69
-    }
+    "rating": 1
   },
   {
     "brand": "Goodbaby",
-    "name": "Melancholy Sled Unlimited",
+    "name": "Green Banana 5000",
     "types": [
       "Convertible",
+      "Combination"
+    ],
+    "features": [
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 23,
+      "max": 25
+    },
+    "weight": {
+      "min": 29,
+      "max": 99
+    },
+    "height": {
+      "min": 30,
+      "max": 66
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Nuno",
+    "name": "Fancy Sunburn Premium",
+    "types": [
+      "Convertible"
+    ],
+    "features": [],
+    "ages": {
+      "min": 18,
+      "max": 30
+    },
+    "weight": {
+      "min": 6,
+      "max": 122
+    },
+    "height": {
+      "min": 24,
+      "max": 72
+    },
+    "rating": 5
+  },
+  {
+    "brand": "Chicco",
+    "name": "Big Hat 5000",
+    "types": [
+      "Carrier Base"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 18,
+      "max": 30
+    },
+    "weight": {
+      "min": 18,
+      "max": 110
+    },
+    "height": {
+      "min": 33,
+      "max": 63
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Melancholy Banana Premium",
+    "types": [
+      "Carrier Base",
       "Combination"
     ],
     "features": [
@@ -180,132 +106,24 @@
       "Carrier with Base"
     ],
     "ages": {
-      "min": 19,
-      "max": 29
-    },
-    "weight": {
-      "min": 27,
-      "max": 101
-    },
-    "height": {
-      "min": 11,
-      "max": 85
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Big Cheese III",
-    "types": [],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 21,
-      "max": 27
+      "min": 5,
+      "max": 43
     },
     "weight": {
       "min": 20,
       "max": 108
     },
     "height": {
-      "min": 21,
-      "max": 75
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Turbo Sunburn Premium",
-    "types": [
-      "Combination"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
       "min": 3,
-      "max": 45
+      "max": 93
     },
-    "weight": {
-      "min": 58,
-      "max": 70
-    },
-    "height": {
-      "min": 13,
-      "max": 83
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Drunken Banana Unlimited",
-    "types": [
-      "Convertible",
-      "Travel System"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 12,
-      "max": 36
-    },
-    "weight": {
-      "min": 52,
-      "max": 76
-    },
-    "height": {
-      "min": 23,
-      "max": 73
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Green Sunburn 5000",
-    "types": [
-      "Combination",
-      "Infant Carrier"
-    ],
-    "features": [],
-    "ages": {
-      "min": 24,
-      "max": 24
-    },
-    "weight": {
-      "min": 63,
-      "max": 65
-    },
-    "height": {
-      "min": 21,
-      "max": 75
-    }
+    "rating": 1
   },
   {
     "brand": "Maxi Rosa",
-    "name": "Swampy Rocketship Limited",
+    "name": "Funky Sled Premium",
     "types": [
-      "Carrier Base",
-      "Convertible",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [],
-    "ages": {
-      "min": 8,
-      "max": 40
-    },
-    "weight": {
-      "min": 14,
-      "max": 114
-    },
-    "height": {
-      "min": 3,
-      "max": 93
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Turbo Sunburn Limited",
-    "types": [
-      "Travel System"
+      "Combination"
     ],
     "features": [
       "All In One"
@@ -319,413 +137,141 @@
       "max": 98
     },
     "height": {
-      "min": 16,
-      "max": 80
-    }
+      "min": 17,
+      "max": 79
+    },
+    "rating": 5
   },
   {
-    "brand": "Nuno",
-    "name": "Drunken Cheese Premium",
+    "brand": "Chicco",
+    "name": "Melancholy Sunburn III",
     "types": [
-      "Booster",
       "Carrier Base",
+      "Convertible",
       "Combination",
+      "Infant Carrier",
       "Travel System"
     ],
     "features": [
+      "All In One",
+      "Carrier with Base",
       "Easy to Install"
     ],
     "ages": {
-      "min": 23,
-      "max": 25
-    },
-    "weight": {
-      "min": 61,
-      "max": 67
-    },
-    "height": {
-      "min": 21,
-      "max": 75
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Turbo Cart Premium",
-    "types": [
-      "Carrier Base",
-      "Infant Carrier"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 19,
-      "max": 29
-    },
-    "weight": {
-      "min": 7,
-      "max": 121
-    },
-    "height": {
-      "min": 40,
-      "max": 56
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Radical Rocketship Jr.",
-    "types": [
-      "Infant Carrier"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 15,
-      "max": 33
+      "min": 18,
+      "max": 30
     },
     "weight": {
       "min": 31,
       "max": 97
     },
     "height": {
-      "min": 8,
-      "max": 88
-    }
+      "min": 12,
+      "max": 84
+    },
+    "rating": 4
   },
   {
-    "brand": "Cybex",
-    "name": "Drunken Moose III",
-    "types": [
-      "Booster"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 22,
-      "max": 26
-    },
-    "weight": {
-      "min": 55,
-      "max": 73
-    },
-    "height": {
-      "min": 32,
-      "max": 64
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Turbo Rocketship III",
+    "brand": "Goodbaby",
+    "name": "Fancy Moose Jr.",
     "types": [
       "Combination"
     ],
     "features": [
+      "All In One",
       "Easy to Install"
     ],
     "ages": {
-      "min": 12,
-      "max": 36
+      "min": 17,
+      "max": 31
     },
     "weight": {
       "min": 53,
       "max": 75
     },
     "height": {
-      "min": 13,
-      "max": 83
-    }
+      "min": 7,
+      "max": 89
+    },
+    "rating": 1
   },
   {
-    "brand": "Nuno",
-    "name": "Radical Pup 9000",
-    "types": [
-      "Combination",
-      "Infant Carrier"
-    ],
-    "features": [],
-    "ages": {
-      "min": 8,
-      "max": 40
-    },
-    "weight": {
-      "min": 3,
-      "max": 125
-    },
-    "height": {
-      "min": 39,
-      "max": 57
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Melancholy Sunburn 5000",
-    "types": [
-      "Convertible",
-      "Infant Carrier"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 17,
-      "max": 31
-    },
-    "weight": {
-      "min": 58,
-      "max": 70
-    },
-    "height": {
-      "min": 38,
-      "max": 58
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Chonky Sunburn 5000",
-    "types": [
-      "Booster",
-      "Carrier Base",
-      "Combination",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 10,
-      "max": 38
-    },
-    "weight": {
-      "min": 40,
-      "max": 88
-    },
-    "height": {
-      "min": 28,
-      "max": 68
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Melancholy Banana 5000",
-    "types": [
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 6,
-      "max": 42
-    },
-    "weight": {
-      "min": 42,
-      "max": 86
-    },
-    "height": {
-      "min": 8,
-      "max": 88
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Swampy Rocketship Supreme",
-    "types": [
-      "Booster",
-      "Carrier Base",
-      "Convertible",
-      "Combination",
-      "Infant Carrier"
-    ],
+    "brand": "Goodbaby",
+    "name": "Drunken Pup Unlimited",
+    "types": [],
     "features": [
       "All In One",
       "Carrier with Base"
     ],
     "ages": {
-      "min": 22,
-      "max": 26
+      "min": 2,
+      "max": 46
     },
     "weight": {
-      "min": 63,
-      "max": 65
+      "min": 12,
+      "max": 116
     },
     "height": {
       "min": 1,
       "max": 95
-    }
+    },
+    "rating": 3
   },
   {
-    "brand": "Cybex",
-    "name": "Fancy Cheese Premium",
+    "brand": "Goodbaby",
+    "name": "Turbo Moose 5000",
     "types": [
-      "Convertible"
+      "Booster",
+      "Convertible",
+      "Travel System"
     ],
     "features": [
-      "All In One",
       "Carrier with Base",
       "Easy to Install"
     ],
     "ages": {
-      "min": 11,
-      "max": 37
-    },
-    "weight": {
-      "min": 54,
-      "max": 74
-    },
-    "height": {
-      "min": 12,
-      "max": 84
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Big Sunburn 5000",
-    "types": [
-      "Combination"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 0,
-      "max": 48
+      "min": 3,
+      "max": 45
     },
     "weight": {
       "min": 0,
       "max": 128
     },
     "height": {
-      "min": 36,
-      "max": 60
-    }
+      "min": 11,
+      "max": 85
+    },
+    "rating": 5
   },
   {
-    "brand": "Maxi Rosa",
-    "name": "Tasty Rocketship Jr.",
+    "brand": "Chicco",
+    "name": "Swampy Hat 9000",
     "types": [
-      "Booster",
-      "Carrier Base",
-      "Travel System"
+      "Carrier Base"
     ],
     "features": [],
     "ages": {
-      "min": 0,
-      "max": 48
+      "min": 4,
+      "max": 44
     },
     "weight": {
-      "min": 56,
-      "max": 72
+      "min": 19,
+      "max": 109
     },
     "height": {
-      "min": 23,
-      "max": 73
-    }
+      "min": 14,
+      "max": 82
+    },
+    "rating": 5
   },
   {
     "brand": "Goodbaby",
-    "name": "Tasty Cheese 9000",
+    "name": "Green Banana Unlimited",
     "types": [
-      "Convertible",
-      "Travel System"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 15,
-      "max": 33
-    },
-    "weight": {
-      "min": 13,
-      "max": 115
-    },
-    "height": {
-      "min": 41,
-      "max": 55
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Fancy Moose 9000",
-    "types": [
-      "Convertible",
-      "Combination",
-      "Travel System"
+      "Carrier Base"
     ],
     "features": [
       "All In One",
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 13,
-      "max": 35
-    },
-    "weight": {
-      "min": 17,
-      "max": 111
-    },
-    "height": {
-      "min": 6,
-      "max": 90
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Green Cheese 9000",
-    "types": [],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 8,
-      "max": 40
-    },
-    "weight": {
-      "min": 5,
-      "max": 123
-    },
-    "height": {
-      "min": 43,
-      "max": 53
-    }
-  },
-  {
-    "brand": "Goodbaby",
-    "name": "Funky Hat Jr.",
-    "types": [
-      "Carrier Base",
-      "Combination",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [],
-    "ages": {
-      "min": 1,
-      "max": 47
-    },
-    "weight": {
-      "min": 45,
-      "max": 83
-    },
-    "height": {
-      "min": 4,
-      "max": 92
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Radical Banana Unlimited",
-    "types": [
-      "Carrier Base",
-      "Combination",
-      "Infant Carrier"
-    ],
-    "features": [
       "Easy to Install"
     ],
     "ages": {
@@ -733,850 +279,51 @@
       "max": 46
     },
     "weight": {
-      "min": 17,
-      "max": 111
+      "min": 50,
+      "max": 78
     },
     "height": {
-      "min": 31,
-      "max": 65
-    }
+      "min": 48,
+      "max": 48
+    },
+    "rating": 4
   },
   {
-    "brand": "Evenflo",
-    "name": "Funky Rocketship Supreme",
+    "brand": "Goodbaby",
+    "name": "Drunken Sunburn Supreme",
     "types": [
-      "Booster",
-      "Infant Carrier"
+      "Carrier Base",
+      "Convertible",
+      "Combination"
     ],
     "features": [
-      "All In One",
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 12,
-      "max": 36
-    },
-    "weight": {
-      "min": 36,
-      "max": 92
-    },
-    "height": {
-      "min": 31,
-      "max": 65
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Big Pup Supreme",
-    "types": [
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "All In One",
-      "Carrier with Base",
       "Easy to Install"
     ],
     "ages": {
       "min": 17,
       "max": 31
-    },
-    "weight": {
-      "min": 14,
-      "max": 114
-    },
-    "height": {
-      "min": 15,
-      "max": 81
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Drunken Sunburn Premium",
-    "types": [
-      "Carrier Base",
-      "Convertible",
-      "Combination",
-      "Infant Carrier"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 19,
-      "max": 29
-    },
-    "weight": {
-      "min": 35,
-      "max": 93
-    },
-    "height": {
-      "min": 28,
-      "max": 68
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Radical Moose Limited",
-    "types": [
-      "Booster",
-      "Infant Carrier"
-    ],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 2,
-      "max": 46
-    },
-    "weight": {
-      "min": 13,
-      "max": 115
-    },
-    "height": {
-      "min": 1,
-      "max": 95
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Radical Pup Limited",
-    "types": [
-      "Convertible",
-      "Combination"
-    ],
-    "features": [],
-    "ages": {
-      "min": 23,
-      "max": 25
     },
     "weight": {
       "min": 1,
       "max": 127
     },
     "height": {
-      "min": 22,
-      "max": 74
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Chonky Hat III",
-    "types": [
-      "Carrier Base",
-      "Convertible",
-      "Infant Carrier"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 21,
-      "max": 27
-    },
-    "weight": {
-      "min": 54,
-      "max": 74
-    },
-    "height": {
-      "min": 19,
-      "max": 77
-    }
-  },
-  {
-    "brand": "Goodbaby",
-    "name": "Green Rocketship III",
-    "types": [],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 18,
-      "max": 30
-    },
-    "weight": {
-      "min": 25,
-      "max": 103
-    },
-    "height": {
-      "min": 7,
-      "max": 89
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Chonky Pup Unlimited",
-    "types": [
-      "Carrier Base"
-    ],
-    "features": [
-      "Carrier with Base",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 17,
-      "max": 31
-    },
-    "weight": {
-      "min": 10,
-      "max": 118
-    },
-    "height": {
-      "min": 32,
-      "max": 64
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Swampy Cheese Premium",
-    "types": [
-      "Booster",
-      "Convertible",
-      "Infant Carrier"
-    ],
-    "features": [],
-    "ages": {
-      "min": 14,
-      "max": 34
-    },
-    "weight": {
-      "min": 17,
-      "max": 111
-    },
-    "height": {
-      "min": 19,
-      "max": 77
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Big Cheese 5000",
-    "types": [
-      "Booster",
-      "Carrier Base",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 14,
-      "max": 34
-    },
-    "weight": {
-      "min": 10,
-      "max": 118
-    },
-    "height": {
-      "min": 17,
-      "max": 79
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Drunken Banana Supreme",
-    "types": [
-      "Booster",
-      "Convertible"
-    ],
-    "features": [],
-    "ages": {
-      "min": 7,
-      "max": 41
-    },
-    "weight": {
-      "min": 12,
-      "max": 116
-    },
-    "height": {
-      "min": 29,
-      "max": 67
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Green Rocketship Supreme",
-    "types": [
-      "Booster",
-      "Combination"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 4,
-      "max": 44
-    },
-    "weight": {
-      "min": 30,
-      "max": 98
-    },
-    "height": {
-      "min": 47,
-      "max": 49
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Swampy Banana Supreme",
-    "types": [
-      "Booster",
-      "Combination"
-    ],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 18,
-      "max": 30
-    },
-    "weight": {
-      "min": 48,
-      "max": 80
-    },
-    "height": {
-      "min": 25,
-      "max": 71
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Green Cheese 9000",
-    "types": [
-      "Booster",
-      "Convertible",
-      "Travel System"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 23,
-      "max": 25
-    },
-    "weight": {
-      "min": 63,
-      "max": 65
-    },
-    "height": {
-      "min": 42,
-      "max": 54
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Fancy Cart Supreme",
-    "types": [
-      "Booster",
-      "Carrier Base",
-      "Travel System"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 15,
-      "max": 33
-    },
-    "weight": {
-      "min": 32,
-      "max": 96
-    },
-    "height": {
-      "min": 27,
-      "max": 69
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Drunken Hat 5000",
-    "types": [
-      "Booster",
-      "Combination"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 14,
-      "max": 34
-    },
-    "weight": {
-      "min": 11,
-      "max": 117
-    },
-    "height": {
-      "min": 9,
-      "max": 87
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Swampy Cart Jr.",
-    "types": [
-      "Booster",
-      "Carrier Base",
-      "Combination",
-      "Infant Carrier"
-    ],
-    "features": [
-      "All In One",
-      "Carrier with Base",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 8,
-      "max": 40
-    },
-    "weight": {
-      "min": 23,
-      "max": 105
-    },
-    "height": {
-      "min": 4,
-      "max": 92
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Radical Rocketship Limited",
-    "types": [
-      "Booster",
-      "Carrier Base",
-      "Convertible",
-      "Travel System"
-    ],
-    "features": [
-      "All In One",
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 15,
-      "max": 33
-    },
-    "weight": {
-      "min": 19,
-      "max": 109
-    },
-    "height": {
-      "min": 9,
-      "max": 87
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Swampy Sunburn III",
-    "types": [
-      "Convertible",
-      "Infant Carrier"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 17,
-      "max": 31
-    },
-    "weight": {
-      "min": 41,
-      "max": 87
-    },
-    "height": {
-      "min": 22,
-      "max": 74
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Funky Cart 5000",
-    "types": [
-      "Booster",
-      "Combination",
-      "Infant Carrier"
-    ],
-    "features": [],
-    "ages": {
-      "min": 17,
-      "max": 31
-    },
-    "weight": {
-      "min": 16,
-      "max": 112
-    },
-    "height": {
-      "min": 40,
-      "max": 56
-    }
-  },
-  {
-    "brand": "Goodbaby",
-    "name": "Tasty Moose Unlimited",
-    "types": [
-      "Booster"
-    ],
-    "features": [
-      "All In One",
-      "Carrier with Base",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 23,
-      "max": 25
-    },
-    "weight": {
-      "min": 62,
-      "max": 66
-    },
-    "height": {
-      "min": 32,
-      "max": 64
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Drunken Cart III",
-    "types": [
-      "Carrier Base",
-      "Combination",
-      "Travel System"
-    ],
-    "features": [],
-    "ages": {
-      "min": 21,
-      "max": 27
-    },
-    "weight": {
-      "min": 63,
-      "max": 65
-    },
-    "height": {
-      "min": 38,
-      "max": 58
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Big Banana Supreme",
-    "types": [
-      "Carrier Base",
-      "Convertible",
-      "Combination"
-    ],
-    "features": [
-      "All In One",
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 2,
-      "max": 46
-    },
-    "weight": {
-      "min": 33,
-      "max": 95
-    },
-    "height": {
-      "min": 32,
-      "max": 64
-    }
-  },
-  {
-    "brand": "Goodbaby",
-    "name": "Funky Sled Unlimited",
-    "types": [
-      "Booster"
-    ],
-    "features": [
-      "Carrier with Base",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 22,
-      "max": 26
-    },
-    "weight": {
-      "min": 35,
-      "max": 93
-    },
-    "height": {
-      "min": 23,
-      "max": 73
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Swampy Pup III",
-    "types": [
-      "Booster",
-      "Carrier Base",
-      "Combination",
-      "Travel System"
-    ],
-    "features": [
-      "All In One",
-      "Carrier with Base",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 2,
-      "max": 46
-    },
-    "weight": {
-      "min": 14,
-      "max": 114
-    },
-    "height": {
-      "min": 28,
-      "max": 68
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Melancholy Cart Jr.",
-    "types": [
-      "Convertible",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 4,
-      "max": 44
-    },
-    "weight": {
-      "min": 39,
-      "max": 89
-    },
-    "height": {
-      "min": 2,
-      "max": 94
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Radical Pup Premium",
-    "types": [
-      "Convertible"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 17,
-      "max": 31
-    },
-    "weight": {
-      "min": 53,
-      "max": 75
-    },
-    "height": {
-      "min": 12,
-      "max": 84
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Funky Pup Limited",
-    "types": [
-      "Carrier Base",
-      "Travel System"
-    ],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 22,
-      "max": 26
-    },
-    "weight": {
-      "min": 60,
-      "max": 68
-    },
-    "height": {
-      "min": 42,
-      "max": 54
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Turbo Cart 5000",
-    "types": [
-      "Travel System"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 16,
-      "max": 32
-    },
-    "weight": {
-      "min": 16,
-      "max": 112
-    },
-    "height": {
-      "min": 22,
-      "max": 74
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Tasty Cart Premium",
-    "types": [
-      "Convertible",
-      "Combination",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 5,
-      "max": 43
-    },
-    "weight": {
-      "min": 0,
-      "max": 128
-    },
-    "height": {
-      "min": 39,
-      "max": 57
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Big Banana Limited",
-    "types": [
-      "Travel System"
-    ],
-    "features": [
-      "All In One",
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 7,
-      "max": 41
-    },
-    "weight": {
-      "min": 37,
-      "max": 91
-    },
-    "height": {
-      "min": 32,
-      "max": 64
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Turbo Moose Supreme",
-    "types": [
-      "Booster",
-      "Carrier Base",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [],
-    "ages": {
-      "min": 8,
-      "max": 40
-    },
-    "weight": {
-      "min": 47,
-      "max": 81
-    },
-    "height": {
-      "min": 30,
-      "max": 66
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Big Cheese Premium",
-    "types": [
-      "Carrier Base",
-      "Travel System"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 21,
-      "max": 27
-    },
-    "weight": {
-      "min": 11,
-      "max": 117
-    },
-    "height": {
       "min": 33,
       "max": 63
-    }
+    },
+    "rating": 1
   },
   {
-    "brand": "Goodbaby",
-    "name": "Green Banana Supreme",
+    "brand": "Evenflo",
+    "name": "Swampy Sunburn Jr.",
     "types": [
+      "Booster",
       "Carrier Base",
-      "Convertible"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 3,
-      "max": 45
-    },
-    "weight": {
-      "min": 33,
-      "max": 95
-    },
-    "height": {
-      "min": 15,
-      "max": 81
-    }
-  },
-  {
-    "brand": "Goodbaby",
-    "name": "Melancholy Sled 9000",
-    "types": [
-      "Combination",
-      "Infant Carrier"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 3,
-      "max": 45
-    },
-    "weight": {
-      "min": 48,
-      "max": 80
-    },
-    "height": {
-      "min": 32,
-      "max": 64
-    }
-  },
-  {
-    "brand": "Goodbaby",
-    "name": "Fancy Cart Jr.",
-    "types": [
-      "Carrier Base",
-      "Combination",
+      "Infant Carrier",
       "Travel System"
     ],
     "features": [
-      "Carrier with Base",
+      "All In One",
       "Easy to Install"
     ],
     "ages": {
@@ -1584,155 +331,24 @@
       "max": 39
     },
     "weight": {
-      "min": 40,
-      "max": 88
+      "min": 2,
+      "max": 126
     },
     "height": {
-      "min": 47,
-      "max": 49
-    }
+      "min": 10,
+      "max": 86
+    },
+    "rating": 3
   },
   {
-    "brand": "Maxi Rosa",
-    "name": "Tasty Moose Premium",
-    "types": [
-      "Carrier Base",
-      "Combination",
-      "Travel System"
-    ],
-    "features": [],
-    "ages": {
-      "min": 12,
-      "max": 36
-    },
-    "weight": {
-      "min": 20,
-      "max": 108
-    },
-    "height": {
-      "min": 33,
-      "max": 63
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Funky Cheese 5000",
-    "types": [
-      "Travel System"
-    ],
-    "features": [],
-    "ages": {
-      "min": 5,
-      "max": 43
-    },
-    "weight": {
-      "min": 62,
-      "max": 66
-    },
-    "height": {
-      "min": 24,
-      "max": 72
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Drunken Cart Jr.",
+    "brand": "Cybex",
+    "name": "Big Moose Premium",
     "types": [
       "Booster",
-      "Carrier Base",
       "Convertible"
     ],
     "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 20,
-      "max": 28
-    },
-    "weight": {
-      "min": 10,
-      "max": 118
-    },
-    "height": {
-      "min": 36,
-      "max": 60
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Green Moose Premium",
-    "types": [
-      "Booster",
-      "Convertible",
-      "Travel System"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 5,
-      "max": 43
-    },
-    "weight": {
-      "min": 16,
-      "max": 112
-    },
-    "height": {
-      "min": 19,
-      "max": 77
-    }
-  },
-  {
-    "brand": "Goodbaby",
-    "name": "Drunken Cheese Limited",
-    "types": [
-      "Combination"
-    ],
-    "features": [
-      "Carrier with Base",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 17,
-      "max": 31
-    },
-    "weight": {
-      "min": 47,
-      "max": 81
-    },
-    "height": {
-      "min": 14,
-      "max": 82
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Fancy Moose Supreme",
-    "types": [
-      "Combination"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 15,
-      "max": 33
-    },
-    "weight": {
-      "min": 13,
-      "max": 115
-    },
-    "height": {
-      "min": 24,
-      "max": 72
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Tasty Banana Jr.",
-    "types": [],
-    "features": [
-      "Carrier with Base",
+      "All In One",
       "Easy to Install"
     ],
     "ages": {
@@ -1740,137 +356,123 @@
       "max": 44
     },
     "weight": {
-      "min": 63,
-      "max": 65
+      "min": 48,
+      "max": 80
     },
     "height": {
-      "min": 10,
-      "max": 86
-    }
+      "min": 43,
+      "max": 53
+    },
+    "rating": 1
   },
   {
-    "brand": "Chicco",
-    "name": "Big Banana Premium",
+    "brand": "Cybex",
+    "name": "Fancy Moose Limited",
     "types": [
-      "Booster",
-      "Combination"
-    ],
-    "features": [],
-    "ages": {
-      "min": 20,
-      "max": 28
-    },
-    "weight": {
-      "min": 63,
-      "max": 65
-    },
-    "height": {
-      "min": 15,
-      "max": 81
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Swampy Cheese 9000",
-    "types": [
-      "Carrier Base",
-      "Convertible",
       "Travel System"
     ],
     "features": [
-      "Easy to Install"
+      "All In One",
+      "Carrier with Base"
     ],
     "ages": {
-      "min": 12,
-      "max": 36
+      "min": 1,
+      "max": 47
     },
     "weight": {
-      "min": 38,
-      "max": 90
+      "min": 34,
+      "max": 94
     },
     "height": {
-      "min": 23,
-      "max": 73
-    }
+      "min": 17,
+      "max": 79
+    },
+    "rating": 5
   },
   {
-    "brand": "Nuno",
-    "name": "Funky Pup Unlimited",
+    "brand": "Goodbaby",
+    "name": "Melancholy Banana Unlimited",
     "types": [
-      "Convertible"
+      "Booster",
+      "Carrier Base"
     ],
     "features": [
       "All In One",
-      "Carrier with Base",
-      "Easy to Install"
+      "Carrier with Base"
     ],
     "ages": {
       "min": 10,
       "max": 38
     },
     "weight": {
-      "min": 47,
-      "max": 81
+      "min": 27,
+      "max": 101
     },
     "height": {
-      "min": 3,
-      "max": 93
-    }
+      "min": 47,
+      "max": 49
+    },
+    "rating": 2
   },
   {
-    "brand": "Chicco",
-    "name": "Drunken Cheese Unlimited",
+    "brand": "Maxi Rosa",
+    "name": "Fancy Cheese III",
     "types": [
       "Convertible",
-      "Infant Carrier"
+      "Combination",
+      "Travel System"
     ],
-    "features": [],
+    "features": [
+      "All In One"
+    ],
     "ages": {
       "min": 8,
       "max": 40
     },
     "weight": {
-      "min": 13,
-      "max": 115
+      "min": 31,
+      "max": 97
     },
     "height": {
-      "min": 37,
-      "max": 59
-    }
+      "min": 1,
+      "max": 95
+    },
+    "rating": 2
   },
   {
-    "brand": "Maxi Rosa",
-    "name": "Fancy Cheese 9000",
+    "brand": "Goodbaby",
+    "name": "Radical Banana 9000",
     "types": [
+      "Booster",
       "Convertible",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 19,
+      "max": 29
+    },
+    "weight": {
+      "min": 48,
+      "max": 80
+    },
+    "height": {
+      "min": 23,
+      "max": 73
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Chonky Banana III",
+    "types": [
+      "Booster",
       "Combination"
     ],
     "features": [
-      "All In One",
-      "Carrier with Base",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 15,
-      "max": 33
-    },
-    "weight": {
-      "min": 32,
-      "max": 96
-    },
-    "height": {
-      "min": 3,
-      "max": 93
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Fancy Pup Jr.",
-    "types": [
-      "Convertible"
-    ],
-    "features": [
-      "All In One",
       "Easy to Install"
     ],
     "ages": {
@@ -1878,187 +480,79 @@
       "max": 27
     },
     "weight": {
-      "min": 46,
-      "max": 82
-    },
-    "height": {
-      "min": 42,
-      "max": 54
-    }
-  },
-  {
-    "brand": "Nuno",
-    "name": "Chonky Sunburn Supreme",
-    "types": [
-      "Convertible",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "Carrier with Base"
-    ],
-    "ages": {
-      "min": 6,
-      "max": 42
-    },
-    "weight": {
-      "min": 19,
-      "max": 109
-    },
-    "height": {
-      "min": 24,
-      "max": 72
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Turbo Sled III",
-    "types": [
-      "Combination",
-      "Travel System"
-    ],
-    "features": [],
-    "ages": {
-      "min": 24,
-      "max": 24
-    },
-    "weight": {
-      "min": 18,
-      "max": 110
-    },
-    "height": {
-      "min": 39,
-      "max": 57
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Tasty Moose 9000",
-    "types": [
-      "Carrier Base",
-      "Convertible",
-      "Combination"
-    ],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 8,
-      "max": 40
-    },
-    "weight": {
-      "min": 54,
-      "max": 74
-    },
-    "height": {
-      "min": 36,
-      "max": 60
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Radical Sunburn Premium",
-    "types": [
-      "Booster",
-      "Combination"
-    ],
-    "features": [
-      "All In One",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 19,
-      "max": 29
-    },
-    "weight": {
-      "min": 63,
-      "max": 65
-    },
-    "height": {
-      "min": 3,
-      "max": 93
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Swampy Rocketship Premium",
-    "types": [
-      "Carrier Base",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 3,
-      "max": 45
-    },
-    "weight": {
-      "min": 19,
-      "max": 109
+      "min": 12,
+      "max": 116
     },
     "height": {
       "min": 20,
       "max": 76
-    }
+    },
+    "rating": 4
   },
   {
-    "brand": "Chicco",
-    "name": "Big Sunburn Supreme",
+    "brand": "Nuno",
+    "name": "Melancholy Cart Supreme",
     "types": [
       "Booster",
+      "Carrier Base",
+      "Convertible"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 14,
+      "max": 34
+    },
+    "weight": {
+      "min": 42,
+      "max": 86
+    },
+    "height": {
+      "min": 3,
+      "max": 93
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Cybex",
+    "name": "Radical Pup 9000",
+    "types": [
+      "Carrier Base",
+      "Convertible",
       "Combination",
-      "Infant Carrier",
       "Travel System"
     ],
     "features": [
       "Carrier with Base"
     ],
     "ages": {
-      "min": 13,
-      "max": 35
+      "min": 10,
+      "max": 38
     },
     "weight": {
-      "min": 23,
-      "max": 105
+      "min": 42,
+      "max": 86
     },
     "height": {
-      "min": 17,
-      "max": 79
-    }
+      "min": 21,
+      "max": 75
+    },
+    "rating": 2
   },
   {
-    "brand": "Chicco",
-    "name": "Melancholy Sled Jr.",
-    "types": [],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 4,
-      "max": 44
-    },
-    "weight": {
-      "min": 52,
-      "max": 76
-    },
-    "height": {
-      "min": 14,
-      "max": 82
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Big Moose 9000",
+    "brand": "Maxi Rosa",
+    "name": "Funky Rocketship Limited",
     "types": [
-      "Carrier Base",
+      "Booster",
       "Combination",
-      "Infant Carrier"
+      "Travel System"
     ],
     "features": [
       "All In One",
+      "Carrier with Base",
       "Easy to Install"
     ],
     "ages": {
@@ -2070,40 +564,794 @@
       "max": 76
     },
     "height": {
-      "min": 6,
-      "max": 90
-    }
+      "min": 23,
+      "max": 73
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Nuno",
+    "name": "Radical Cart Limited",
+    "types": [
+      "Carrier Base",
+      "Convertible",
+      "Combination",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 3,
+      "max": 45
+    },
+    "weight": {
+      "min": 56,
+      "max": 72
+    },
+    "height": {
+      "min": 34,
+      "max": 62
+    },
+    "rating": 1
   },
   {
     "brand": "Cybex",
-    "name": "Turbo Pup Unlimited",
+    "name": "Tasty Hat Jr.",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Combination",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 18,
+      "max": 30
+    },
+    "weight": {
+      "min": 38,
+      "max": 90
+    },
+    "height": {
+      "min": 6,
+      "max": 90
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Swampy Banana Unlimited",
+    "types": [
+      "Booster",
+      "Carrier Base"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 11,
+      "max": 37
+    },
+    "weight": {
+      "min": 55,
+      "max": 73
+    },
+    "height": {
+      "min": 6,
+      "max": 90
+    },
+    "rating": 5
+  },
+  {
+    "brand": "Maxi Rosa",
+    "name": "Tasty Hat 5000",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Infant Carrier"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 9,
+      "max": 39
+    },
+    "weight": {
+      "min": 39,
+      "max": 89
+    },
+    "height": {
+      "min": 28,
+      "max": 68
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Cybex",
+    "name": "Tasty Banana Premium",
     "types": [
       "Booster",
       "Convertible",
+      "Combination"
+    ],
+    "features": [
+      "All In One",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 20,
+      "max": 28
+    },
+    "weight": {
+      "min": 25,
+      "max": 103
+    },
+    "height": {
+      "min": 36,
+      "max": 60
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Nuno",
+    "name": "Big Cart Limited",
+    "types": [
+      "Convertible",
+      "Combination",
       "Infant Carrier"
     ],
+    "features": [
+      "All In One",
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 16,
+      "max": 32
+    },
+    "weight": {
+      "min": 30,
+      "max": 98
+    },
+    "height": {
+      "min": 6,
+      "max": 90
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Tasty Cheese Limited",
+    "types": [
+      "Booster",
+      "Infant Carrier"
+    ],
+    "features": [
+      "All In One",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 24,
+      "max": 24
+    },
+    "weight": {
+      "min": 27,
+      "max": 101
+    },
+    "height": {
+      "min": 37,
+      "max": 59
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Cybex",
+    "name": "Drunken Cheese Unlimited",
+    "types": [
+      "Booster",
+      "Infant Carrier"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 9,
+      "max": 39
+    },
+    "weight": {
+      "min": 49,
+      "max": 79
+    },
+    "height": {
+      "min": 37,
+      "max": 59
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Chicco",
+    "name": "Tasty Rocketship Limited",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Combination"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 15,
+      "max": 33
+    },
+    "weight": {
+      "min": 40,
+      "max": 88
+    },
+    "height": {
+      "min": 30,
+      "max": 66
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Chicco",
+    "name": "Tasty Rocketship Limited",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Travel System"
+    ],
+    "features": [
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 14,
+      "max": 34
+    },
+    "weight": {
+      "min": 34,
+      "max": 94
+    },
+    "height": {
+      "min": 18,
+      "max": 78
+    },
+    "rating": 5
+  },
+  {
+    "brand": "Chicco",
+    "name": "Green Banana 5000",
+    "types": [
+      "Combination"
+    ],
+    "features": [
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 13,
+      "max": 35
+    },
+    "weight": {
+      "min": 1,
+      "max": 127
+    },
+    "height": {
+      "min": 35,
+      "max": 61
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Chonky Hat Limited",
+    "types": [
+      "Infant Carrier"
+    ],
+    "features": [
+      "All In One",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 23,
+      "max": 25
+    },
+    "weight": {
+      "min": 57,
+      "max": 71
+    },
+    "height": {
+      "min": 16,
+      "max": 80
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Funky Sled Unlimited",
+    "types": [
+      "Booster",
+      "Infant Carrier"
+    ],
+    "features": [
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 7,
+      "max": 41
+    },
+    "weight": {
+      "min": 33,
+      "max": 95
+    },
+    "height": {
+      "min": 9,
+      "max": 87
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Fancy Sunburn 5000",
+    "types": [
+      "Booster",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 12,
+      "max": 36
+    },
+    "weight": {
+      "min": 55,
+      "max": 73
+    },
+    "height": {
+      "min": 43,
+      "max": 53
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Melancholy Sunburn Premium",
+    "types": [
+      "Booster",
+      "Combination"
+    ],
+    "features": [
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 6,
+      "max": 42
+    },
+    "weight": {
+      "min": 50,
+      "max": 78
+    },
+    "height": {
+      "min": 7,
+      "max": 89
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Chicco",
+    "name": "Tasty Cheese 5000",
+    "types": [
+      "Convertible"
+    ],
     "features": [],
+    "ages": {
+      "min": 3,
+      "max": 45
+    },
+    "weight": {
+      "min": 50,
+      "max": 78
+    },
+    "height": {
+      "min": 14,
+      "max": 82
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Maxi Rosa",
+    "name": "Chonky Moose Premium",
+    "types": [
+      "Combination",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 19,
+      "max": 29
+    },
+    "weight": {
+      "min": 59,
+      "max": 69
+    },
+    "height": {
+      "min": 23,
+      "max": 73
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Drunken Moose Limited",
+    "types": [
+      "Carrier Base",
+      "Combination"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 22,
+      "max": 26
+    },
+    "weight": {
+      "min": 3,
+      "max": 125
+    },
+    "height": {
+      "min": 23,
+      "max": 73
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Cybex",
+    "name": "Tasty Hat Supreme",
+    "types": [
+      "Booster",
+      "Carrier Base"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 1,
+      "max": 47
+    },
+    "weight": {
+      "min": 61,
+      "max": 67
+    },
+    "height": {
+      "min": 25,
+      "max": 71
+    },
+    "rating": 5
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Turbo Hat 9000",
+    "types": [
+      "Combination",
+      "Infant Carrier"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 15,
+      "max": 33
+    },
+    "weight": {
+      "min": 10,
+      "max": 118
+    },
+    "height": {
+      "min": 34,
+      "max": 62
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Cybex",
+    "name": "Drunken Sled Supreme",
+    "types": [
+      "Combination",
+      "Travel System"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 14,
+      "max": 34
+    },
+    "weight": {
+      "min": 33,
+      "max": 95
+    },
+    "height": {
+      "min": 47,
+      "max": 49
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Chicco",
+    "name": "Tasty Sunburn Unlimited",
+    "types": [
+      "Convertible",
+      "Combination"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 12,
+      "max": 36
+    },
+    "weight": {
+      "min": 50,
+      "max": 78
+    },
+    "height": {
+      "min": 3,
+      "max": 93
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Melancholy Banana Limited",
+    "types": [
+      "Combination"
+    ],
+    "features": [
+      "All In One",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 5,
+      "max": 43
+    },
+    "weight": {
+      "min": 50,
+      "max": 78
+    },
+    "height": {
+      "min": 9,
+      "max": 87
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Funky Moose Jr.",
+    "types": [
+      "Convertible",
+      "Combination"
+    ],
+    "features": [
+      "Easy to Install"
+    ],
     "ages": {
       "min": 4,
       "max": 44
     },
     "weight": {
-      "min": 12,
-      "max": 116
+      "min": 14,
+      "max": 114
+    },
+    "height": {
+      "min": 47,
+      "max": 49
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Nuno",
+    "name": "Turbo Cheese 9000",
+    "types": [
+      "Carrier Base",
+      "Convertible",
+      "Infant Carrier"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 4,
+      "max": 44
+    },
+    "weight": {
+      "min": 51,
+      "max": 77
     },
     "height": {
       "min": 11,
       "max": 85
-    }
+    },
+    "rating": 4
   },
   {
-    "brand": "Cybex",
-    "name": "Turbo Pup Limited",
+    "brand": "Maxi Rosa",
+    "name": "Tasty Pup Unlimited",
     "types": [
+      "Booster",
       "Carrier Base",
+      "Combination",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 2,
+      "max": 46
+    },
+    "weight": {
+      "min": 53,
+      "max": 75
+    },
+    "height": {
+      "min": 11,
+      "max": 85
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Nuno",
+    "name": "Tasty Cheese III",
+    "types": [
       "Convertible"
     ],
     "features": [
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 1,
+      "max": 47
+    },
+    "weight": {
+      "min": 8,
+      "max": 120
+    },
+    "height": {
+      "min": 33,
+      "max": 63
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Chicco",
+    "name": "Funky Cheese Jr.",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Combination"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 8,
+      "max": 40
+    },
+    "weight": {
+      "min": 1,
+      "max": 127
+    },
+    "height": {
+      "min": 12,
+      "max": 84
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Maxi Rosa",
+    "name": "Fancy Sunburn Supreme",
+    "types": [
+      "Infant Carrier"
+    ],
+    "features": [
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 7,
+      "max": 41
+    },
+    "weight": {
+      "min": 23,
+      "max": 105
+    },
+    "height": {
+      "min": 22,
+      "max": 74
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Chicco",
+    "name": "Green Sled III",
+    "types": [
+      "Carrier Base",
+      "Convertible",
+      "Infant Carrier"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 17,
+      "max": 31
+    },
+    "weight": {
+      "min": 8,
+      "max": 120
+    },
+    "height": {
+      "min": 15,
+      "max": 81
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Nuno",
+    "name": "Green Cheese Premium",
+    "types": [
+      "Carrier Base",
+      "Combination",
+      "Infant Carrier"
+    ],
+    "features": [
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 19,
+      "max": 29
+    },
+    "weight": {
+      "min": 9,
+      "max": 119
+    },
+    "height": {
+      "min": 39,
+      "max": 57
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Nuno",
+    "name": "Swampy Sunburn Limited",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Convertible",
+      "Combination"
+    ],
+    "features": [
+      "Carrier with Base",
       "Easy to Install"
     ],
     "ages": {
@@ -2111,203 +1359,19 @@
       "max": 37
     },
     "weight": {
-      "min": 18,
-      "max": 110
+      "min": 4,
+      "max": 124
     },
     "height": {
       "min": 7,
       "max": 89
-    }
-  },
-  {
-    "brand": "Goodbaby",
-    "name": "Funky Rocketship Limited",
-    "types": [
-      "Booster",
-      "Combination",
-      "Infant Carrier"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 18,
-      "max": 30
     },
-    "weight": {
-      "min": 53,
-      "max": 75
-    },
-    "height": {
-      "min": 2,
-      "max": 94
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Swampy Rocketship Supreme",
-    "types": [
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [],
-    "ages": {
-      "min": 0,
-      "max": 48
-    },
-    "weight": {
-      "min": 22,
-      "max": 106
-    },
-    "height": {
-      "min": 41,
-      "max": 55
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Fancy Sled 9000",
-    "types": [
-      "Booster",
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 6,
-      "max": 42
-    },
-    "weight": {
-      "min": 29,
-      "max": 99
-    },
-    "height": {
-      "min": 7,
-      "max": 89
-    }
-  },
-  {
-    "brand": "Evenflo",
-    "name": "Melancholy Sunburn 9000",
-    "types": [
-      "Infant Carrier",
-      "Travel System"
-    ],
-    "features": [
-      "All In One"
-    ],
-    "ages": {
-      "min": 15,
-      "max": 33
-    },
-    "weight": {
-      "min": 57,
-      "max": 71
-    },
-    "height": {
-      "min": 39,
-      "max": 57
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Funky Hat Limited",
-    "types": [
-      "Carrier Base",
-      "Combination",
-      "Infant Carrier"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 19,
-      "max": 29
-    },
-    "weight": {
-      "min": 49,
-      "max": 79
-    },
-    "height": {
-      "min": 46,
-      "max": 50
-    }
-  },
-  {
-    "brand": "Maxi Rosa",
-    "name": "Tasty Hat 5000",
-    "types": [
-      "Booster",
-      "Convertible",
-      "Combination"
-    ],
-    "features": [
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 18,
-      "max": 30
-    },
-    "weight": {
-      "min": 22,
-      "max": 106
-    },
-    "height": {
-      "min": 5,
-      "max": 91
-    }
-  },
-  {
-    "brand": "Chicco",
-    "name": "Chonky Rocketship Jr.",
-    "types": [],
-    "features": [
-      "Carrier with Base",
-      "Easy to Install"
-    ],
-    "ages": {
-      "min": 5,
-      "max": 43
-    },
-    "weight": {
-      "min": 27,
-      "max": 101
-    },
-    "height": {
-      "min": 6,
-      "max": 90
-    }
-  },
-  {
-    "brand": "Cybex",
-    "name": "Drunken Hat Unlimited",
-    "types": [
-      "Combination",
-      "Travel System"
-    ],
-    "features": [],
-    "ages": {
-      "min": 16,
-      "max": 32
-    },
-    "weight": {
-      "min": 38,
-      "max": 90
-    },
-    "height": {
-      "min": 28,
-      "max": 68
-    }
+    "rating": 4
   },
   {
     "brand": "Nuno",
-    "name": "Tasty Sunburn 5000",
+    "name": "Radical Sled 5000",
     "types": [
-      "Carrier Base",
-      "Convertible",
-      "Combination",
       "Infant Carrier"
     ],
     "features": [
@@ -2315,16 +1379,1081 @@
       "Easy to Install"
     ],
     "ages": {
-      "min": 9,
-      "max": 39
+      "min": 15,
+      "max": 33
     },
     "weight": {
-      "min": 62,
-      "max": 66
+      "min": 1,
+      "max": 127
+    },
+    "height": {
+      "min": 10,
+      "max": 86
+    },
+    "rating": 5
+  },
+  {
+    "brand": "Maxi Rosa",
+    "name": "Turbo Sled Premium",
+    "types": [
+      "Booster",
+      "Convertible",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 2,
+      "max": 46
+    },
+    "weight": {
+      "min": 60,
+      "max": 68
+    },
+    "height": {
+      "min": 41,
+      "max": 55
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Chonky Hat Unlimited",
+    "types": [
+      "Carrier Base",
+      "Convertible",
+      "Combination",
+      "Infant Carrier"
+    ],
+    "features": [],
+    "ages": {
+      "min": 14,
+      "max": 34
+    },
+    "weight": {
+      "min": 23,
+      "max": 105
+    },
+    "height": {
+      "min": 40,
+      "max": 56
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Drunken Rocketship 9000",
+    "types": [
+      "Booster",
+      "Combination",
+      "Infant Carrier"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 13,
+      "max": 35
+    },
+    "weight": {
+      "min": 27,
+      "max": 101
+    },
+    "height": {
+      "min": 22,
+      "max": 74
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Nuno",
+    "name": "Tasty Moose 5000",
+    "types": [
+      "Carrier Base",
+      "Convertible",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 3,
+      "max": 45
+    },
+    "weight": {
+      "min": 23,
+      "max": 105
     },
     "height": {
       "min": 9,
       "max": 87
-    }
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Chicco",
+    "name": "Turbo Cheese 5000",
+    "types": [
+      "Carrier Base"
+    ],
+    "features": [],
+    "ages": {
+      "min": 0,
+      "max": 48
+    },
+    "weight": {
+      "min": 53,
+      "max": 75
+    },
+    "height": {
+      "min": 31,
+      "max": 65
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Turbo Rocketship 9000",
+    "types": [
+      "Carrier Base"
+    ],
+    "features": [],
+    "ages": {
+      "min": 5,
+      "max": 43
+    },
+    "weight": {
+      "min": 59,
+      "max": 69
+    },
+    "height": {
+      "min": 45,
+      "max": 51
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Nuno",
+    "name": "Funky Pup Unlimited",
+    "types": [
+      "Carrier Base",
+      "Combination"
+    ],
+    "features": [],
+    "ages": {
+      "min": 4,
+      "max": 44
+    },
+    "weight": {
+      "min": 6,
+      "max": 122
+    },
+    "height": {
+      "min": 2,
+      "max": 94
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Funky Sled Jr.",
+    "types": [
+      "Carrier Base",
+      "Convertible",
+      "Combination",
+      "Infant Carrier"
+    ],
+    "features": [
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 21,
+      "max": 27
+    },
+    "weight": {
+      "min": 9,
+      "max": 119
+    },
+    "height": {
+      "min": 41,
+      "max": 55
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Tasty Sled Jr.",
+    "types": [
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 3,
+      "max": 45
+    },
+    "weight": {
+      "min": 35,
+      "max": 93
+    },
+    "height": {
+      "min": 44,
+      "max": 52
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Nuno",
+    "name": "Swampy Pup Premium",
+    "types": [
+      "Booster",
+      "Convertible",
+      "Combination",
+      "Infant Carrier"
+    ],
+    "features": [],
+    "ages": {
+      "min": 2,
+      "max": 46
+    },
+    "weight": {
+      "min": 63,
+      "max": 65
+    },
+    "height": {
+      "min": 43,
+      "max": 53
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Maxi Rosa",
+    "name": "Radical Hat Unlimited",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Convertible",
+      "Travel System"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 3,
+      "max": 45
+    },
+    "weight": {
+      "min": 40,
+      "max": 88
+    },
+    "height": {
+      "min": 7,
+      "max": 89
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Nuno",
+    "name": "Funky Banana 9000",
+    "types": [
+      "Combination",
+      "Travel System"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 7,
+      "max": 41
+    },
+    "weight": {
+      "min": 30,
+      "max": 98
+    },
+    "height": {
+      "min": 5,
+      "max": 91
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Chonky Rocketship Premium",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Combination"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 14,
+      "max": 34
+    },
+    "weight": {
+      "min": 61,
+      "max": 67
+    },
+    "height": {
+      "min": 7,
+      "max": 89
+    },
+    "rating": 5
+  },
+  {
+    "brand": "Cybex",
+    "name": "Green Sled Limited",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Convertible",
+      "Travel System"
+    ],
+    "features": [],
+    "ages": {
+      "min": 5,
+      "max": 43
+    },
+    "weight": {
+      "min": 38,
+      "max": 90
+    },
+    "height": {
+      "min": 12,
+      "max": 84
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Tasty Pup Limited",
+    "types": [
+      "Carrier Base",
+      "Convertible",
+      "Combination"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 22,
+      "max": 26
+    },
+    "weight": {
+      "min": 36,
+      "max": 92
+    },
+    "height": {
+      "min": 38,
+      "max": 58
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Nuno",
+    "name": "Tasty Sled Jr.",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Combination",
+      "Travel System"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 12,
+      "max": 36
+    },
+    "weight": {
+      "min": 30,
+      "max": 98
+    },
+    "height": {
+      "min": 21,
+      "max": 75
+    },
+    "rating": 5
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Funky Pup III",
+    "types": [
+      "Combination",
+      "Travel System"
+    ],
+    "features": [
+      "All In One",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 15,
+      "max": 33
+    },
+    "weight": {
+      "min": 50,
+      "max": 78
+    },
+    "height": {
+      "min": 4,
+      "max": 92
+    },
+    "rating": 5
+  },
+  {
+    "brand": "Nuno",
+    "name": "Chonky Hat Supreme",
+    "types": [
+      "Carrier Base",
+      "Infant Carrier"
+    ],
+    "features": [
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 4,
+      "max": 44
+    },
+    "weight": {
+      "min": 55,
+      "max": 73
+    },
+    "height": {
+      "min": 13,
+      "max": 83
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Chicco",
+    "name": "Turbo Rocketship Premium",
+    "types": [
+      "Travel System"
+    ],
+    "features": [
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 23,
+      "max": 25
+    },
+    "weight": {
+      "min": 22,
+      "max": 106
+    },
+    "height": {
+      "min": 37,
+      "max": 59
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Chicco",
+    "name": "Radical Sled 5000",
+    "types": [],
+    "features": [
+      "All In One",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 14,
+      "max": 34
+    },
+    "weight": {
+      "min": 37,
+      "max": 91
+    },
+    "height": {
+      "min": 26,
+      "max": 70
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Melancholy Sled Unlimited",
+    "types": [
+      "Carrier Base",
+      "Infant Carrier"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 22,
+      "max": 26
+    },
+    "weight": {
+      "min": 58,
+      "max": 70
+    },
+    "height": {
+      "min": 47,
+      "max": 49
+    },
+    "rating": 5
+  },
+  {
+    "brand": "Chicco",
+    "name": "Big Cart Unlimited",
+    "types": [
+      "Convertible"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 14,
+      "max": 34
+    },
+    "weight": {
+      "min": 35,
+      "max": 93
+    },
+    "height": {
+      "min": 4,
+      "max": 92
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Maxi Rosa",
+    "name": "Chonky Hat Unlimited",
+    "types": [
+      "Carrier Base"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 22,
+      "max": 26
+    },
+    "weight": {
+      "min": 26,
+      "max": 102
+    },
+    "height": {
+      "min": 34,
+      "max": 62
+    },
+    "rating": 1
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Funky Cheese 9000",
+    "types": [
+      "Carrier Base",
+      "Combination"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 5,
+      "max": 43
+    },
+    "weight": {
+      "min": 46,
+      "max": 82
+    },
+    "height": {
+      "min": 17,
+      "max": 79
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Chicco",
+    "name": "Melancholy Sled Premium",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Combination",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 18,
+      "max": 30
+    },
+    "weight": {
+      "min": 33,
+      "max": 95
+    },
+    "height": {
+      "min": 33,
+      "max": 63
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Cybex",
+    "name": "Tasty Rocketship Limited",
+    "types": [
+      "Booster",
+      "Convertible",
+      "Infant Carrier"
+    ],
+    "features": [
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 8,
+      "max": 40
+    },
+    "weight": {
+      "min": 20,
+      "max": 108
+    },
+    "height": {
+      "min": 32,
+      "max": 64
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Chicco",
+    "name": "Melancholy Sunburn Premium",
+    "types": [
+      "Carrier Base",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [],
+    "ages": {
+      "min": 14,
+      "max": 34
+    },
+    "weight": {
+      "min": 22,
+      "max": 106
+    },
+    "height": {
+      "min": 38,
+      "max": 58
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Big Sled Premium",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Combination",
+      "Travel System"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 11,
+      "max": 37
+    },
+    "weight": {
+      "min": 3,
+      "max": 125
+    },
+    "height": {
+      "min": 28,
+      "max": 68
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Maxi Rosa",
+    "name": "Drunken Cart Unlimited",
+    "types": [],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 14,
+      "max": 34
+    },
+    "weight": {
+      "min": 36,
+      "max": 92
+    },
+    "height": {
+      "min": 44,
+      "max": 52
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Cybex",
+    "name": "Chonky Sled Limited",
+    "types": [
+      "Booster",
+      "Combination"
+    ],
+    "features": [
+      "All In One"
+    ],
+    "ages": {
+      "min": 9,
+      "max": 39
+    },
+    "weight": {
+      "min": 8,
+      "max": 120
+    },
+    "height": {
+      "min": 0,
+      "max": 96
+    },
+    "rating": 5
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Melancholy Cheese Limited",
+    "types": [
+      "Booster",
+      "Infant Carrier"
+    ],
+    "features": [],
+    "ages": {
+      "min": 4,
+      "max": 44
+    },
+    "weight": {
+      "min": 44,
+      "max": 84
+    },
+    "height": {
+      "min": 21,
+      "max": 75
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Maxi Rosa",
+    "name": "Melancholy Cheese Unlimited",
+    "types": [
+      "Combination",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 16,
+      "max": 32
+    },
+    "weight": {
+      "min": 52,
+      "max": 76
+    },
+    "height": {
+      "min": 44,
+      "max": 52
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Chonky Moose III",
+    "types": [
+      "Carrier Base",
+      "Combination",
+      "Travel System"
+    ],
+    "features": [],
+    "ages": {
+      "min": 6,
+      "max": 42
+    },
+    "weight": {
+      "min": 53,
+      "max": 75
+    },
+    "height": {
+      "min": 19,
+      "max": 77
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Fancy Sled 5000",
+    "types": [],
+    "features": [],
+    "ages": {
+      "min": 18,
+      "max": 30
+    },
+    "weight": {
+      "min": 26,
+      "max": 102
+    },
+    "height": {
+      "min": 11,
+      "max": 85
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Nuno",
+    "name": "Swampy Moose III",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Combination"
+    ],
+    "features": [
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 1,
+      "max": 47
+    },
+    "weight": {
+      "min": 18,
+      "max": 110
+    },
+    "height": {
+      "min": 9,
+      "max": 87
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Tasty Cart III",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Combination",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 15,
+      "max": 33
+    },
+    "weight": {
+      "min": 15,
+      "max": 113
+    },
+    "height": {
+      "min": 2,
+      "max": 94
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Chonky Sunburn III",
+    "types": [
+      "Booster",
+      "Carrier Base"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 2,
+      "max": 46
+    },
+    "weight": {
+      "min": 13,
+      "max": 115
+    },
+    "height": {
+      "min": 27,
+      "max": 69
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Chonky Rocketship 5000",
+    "types": [
+      "Carrier Base",
+      "Convertible",
+      "Travel System"
+    ],
+    "features": [
+      "All In One",
+      "Carrier with Base"
+    ],
+    "ages": {
+      "min": 6,
+      "max": 42
+    },
+    "weight": {
+      "min": 28,
+      "max": 100
+    },
+    "height": {
+      "min": 29,
+      "max": 67
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Evenflo",
+    "name": "Green Moose III",
+    "types": [
+      "Travel System"
+    ],
+    "features": [
+      "All In One",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 8,
+      "max": 40
+    },
+    "weight": {
+      "min": 50,
+      "max": 78
+    },
+    "height": {
+      "min": 0,
+      "max": 96
+    },
+    "rating": 4
+  },
+  {
+    "brand": "Chicco",
+    "name": "Tasty Sunburn Supreme",
+    "types": [
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "Carrier with Base",
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 0,
+      "max": 48
+    },
+    "weight": {
+      "min": 50,
+      "max": 78
+    },
+    "height": {
+      "min": 26,
+      "max": 70
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Cybex",
+    "name": "Radical Hat Jr.",
+    "types": [
+      "Booster",
+      "Carrier Base",
+      "Infant Carrier"
+    ],
+    "features": [],
+    "ages": {
+      "min": 11,
+      "max": 37
+    },
+    "weight": {
+      "min": 7,
+      "max": 121
+    },
+    "height": {
+      "min": 34,
+      "max": 62
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Cybex",
+    "name": "Big Cart Jr.",
+    "types": [
+      "Combination",
+      "Travel System"
+    ],
+    "features": [],
+    "ages": {
+      "min": 6,
+      "max": 42
+    },
+    "weight": {
+      "min": 32,
+      "max": 96
+    },
+    "height": {
+      "min": 20,
+      "max": 76
+    },
+    "rating": 2
+  },
+  {
+    "brand": "Goodbaby",
+    "name": "Big Sunburn Unlimited",
+    "types": [
+      "Carrier Base",
+      "Convertible",
+      "Infant Carrier",
+      "Travel System"
+    ],
+    "features": [
+      "Easy to Install"
+    ],
+    "ages": {
+      "min": 4,
+      "max": 44
+    },
+    "weight": {
+      "min": 52,
+      "max": 76
+    },
+    "height": {
+      "min": 4,
+      "max": 92
+    },
+    "rating": 3
+  },
+  {
+    "brand": "Nuno",
+    "name": "Swampy Cart Premium",
+    "types": [
+      "Carrier Base"
+    ],
+    "features": [],
+    "ages": {
+      "min": 15,
+      "max": 33
+    },
+    "weight": {
+      "min": 43,
+      "max": 85
+    },
+    "height": {
+      "min": 36,
+      "max": 60
+    },
+    "rating": 5
   }
 ]
